@@ -1,0 +1,12 @@
+{
+  "name": "app",
+  "version": "0.0.1",
+  "description": "Tollhome Controller",
+  "main": "app.js",
+  "author": "rodtoll",
+  "license": "MIT",
+  "dependencies": {
+    "express": "",
+    "uuid": ""
+  }
+}
